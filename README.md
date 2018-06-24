@@ -13,8 +13,8 @@ Sample Project:
 https://github.com/SarthakMakhija/kotlin-training-scratchpad.git
 
 # Movies Exercise 1
-Create Movie class with following properties
-imdbID (string), title (string), releaseDate (date), genres (list), director (string), actors (list), actresses (list), duration (in min)
+- Create Movie class with following properties
+    imdbID (string), title (string), releaseDate (date), genres (list), director (string), actors (list), actresses (list), duration (in min)
 - Create MovieStore class with min 5 movies list as member variable
 - Implement following functions on MovieStore
 - Find movies released in given releaseYear
